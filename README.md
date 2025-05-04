@@ -18,9 +18,11 @@ A sleek and interactive Python desktop app that generates memes based on your in
 
 ## 🖼️ Screenshots
 
+### 🎯 Search for Memes by Topic  
+![Search Screenshot](./screenshots/screenshot1.png)
 
 ### 📸 Browse Programming Memes  
-![Browse Screenshot]("C:\Users\pc\Downloads\WhatsApp Image 2025-05-02 at 6.38.03 PM.jpeg")
+![Browse Screenshot](./screenshots/screenshot2.png)
 
 ---
 
